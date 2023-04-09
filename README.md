@@ -1,5 +1,5 @@
--  Hi 👋, I’m Himanshu sahu
-- 👀 I’m interested in 
+- 👋, Hi I’m Himanshu sahu
+- 👀 I’m interested in Development of Both client side and server side application
 - 🌱 I’m currently engaged with Various projects on MERN stack
 - 💞️ I’m looking for new opportunity as an React and MERN developer
 - 📫 We connect on this email () => 60himanshusahu@gmail.com
