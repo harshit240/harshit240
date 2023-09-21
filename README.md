@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/harshit64946181" target="blank"><img src="https://img.shields.io/twitter/follow/harshit64946181?logo=twitter&style=for-the-badge" alt="harshit64946181" /></a> </p>
 
-- 🔭 I’m currently working on [AstaInnosys](xigify.com)
+- 🔭 I’m currently working on [AstaInnosys](https://www.xigify.com)
 
 - 🌱 I’m currently learning **Nest.js**
 
