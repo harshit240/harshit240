@@ -8,6 +8,8 @@
 
 - 🔭 I’m currently working with [Electrovese]([https://www.xigify.com](https://electrovese.com/))
 
+- 🌱 Previously worked with [AstaInnosys](https://www.xigify.com)
+
 - 👨‍💻 All of my projects are available at [https://himanshusahu.netlify.app/](https://himanshusahu.netlify.app/)
 
 - 📝 I generally write post on [https://www.linkedin.com/in/himanshu-sahu-b9463a17a/](https://www.linkedin.com/in/himanshu-sahu-b9463a17a/)
