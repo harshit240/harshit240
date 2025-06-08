@@ -6,15 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/harshit64946181" target="blank"><img src="https://img.shields.io/twitter/follow/harshit64946181?logo=twitter&style=for-the-badge" alt="harshit64946181" /></a> </p>
 
-- 🔭 I’m currently working on [AstaInnosys](https://www.xigify.com)
-
-- 🌱 I’m currently learning **Nest.js**
+- 🔭 I’m currently working with [Electrovese]([https://www.xigify.com](https://electrovese.com/))
 
 - 👨‍💻 All of my projects are available at [https://himanshusahu.netlify.app/](https://himanshusahu.netlify.app/)
 
 - 📝 I generally write post on [https://www.linkedin.com/in/himanshu-sahu-b9463a17a/](https://www.linkedin.com/in/himanshu-sahu-b9463a17a/)
 
-- 💬 Ask me about **React, Next.js, MongoDB, Express.js, Node.js**
+- 💬 Ask me about **React, Next.js, MongoDB, Express.js, Node.js, SQL**
 
 - 📫 How to reach me **https://www.linkedin.com/in/himanshu-sahu-b9463a17a/**
 
