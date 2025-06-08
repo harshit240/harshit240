@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/harshit64946181" target="blank"><img src="https://img.shields.io/twitter/follow/harshit64946181?logo=twitter&style=for-the-badge" alt="harshit64946181" /></a> </p>
 
-- 🔭 I’m currently working with [Electrovese]([https://www.xigify.com](https://electrovese.com/))
+- 🔭 I’m currently working with [Electrovese](https://electrovese.com/)
 
 - 🌱 Previously worked with [AstaInnosys](https://www.xigify.com)
 
